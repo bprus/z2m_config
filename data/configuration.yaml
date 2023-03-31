@@ -23,3 +23,11 @@ devices:
   '0x54ef4410006752cc':
     friendly_name: Attic Thermostat
     thermostat_unit: celsius
+  '0x00124b0029195ed1':
+    friendly_name: Attic Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x00124b0029193cf2':
+    friendly_name: Kitchen Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
