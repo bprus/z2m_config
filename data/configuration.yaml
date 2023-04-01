@@ -20,9 +20,6 @@ devices:
     friendly_name: Study Sensor
   '0x5c0272fffecf6026':
     friendly_name: Attic Sensor
-  '0x54ef4410006752cc':
-    friendly_name: Attic Thermostat
-    thermostat_unit: celsius
   '0x00124b0029195ed1':
     friendly_name: Attic Sonoff Sensor
     temperature_precision: 1
