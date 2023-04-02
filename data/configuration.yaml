@@ -13,15 +13,15 @@ frontend:
   url: http://192.168.1.106:8080
 devices:
   '0x5c0272fffebbe6d8':
-    friendly_name: Toilette Sensor
+    friendly_name: Toilette Tuya Sensor
   '0x5c0272fffecbe95a':
-    friendly_name: Kitchen Sensor
+    friendly_name: Attic Bathroom Tuya Sensor
   '0x5c0272fffec3d80e':
-    friendly_name: Study Sensor
+    friendly_name: Wardrobe Tuya Sensor
   '0x5c0272fffecf6026':
-    friendly_name: Attic Sensor
+    friendly_name: Attic Tuya Sensor
   '0x00124b0029195ed1':
-    friendly_name: Attic Sonoff Sensor
+    friendly_name: Study Sonoff Sensor
     temperature_precision: 1
     humidity_precision: 0
   '0x00124b0029193cf2':
