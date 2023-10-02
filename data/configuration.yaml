@@ -8,6 +8,7 @@ mqtt:
   client_id: z2m
 serial:
   port: /dev/ttyACM0
+  adapter: deconz
 frontend:
   port: 8080
   url: http://192.168.1.106:8080
