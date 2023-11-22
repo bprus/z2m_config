@@ -27,5 +27,3 @@ devices:
     humidity_precision: 0
   '0x00124b0029195ed1':
     friendly_name: Study Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
