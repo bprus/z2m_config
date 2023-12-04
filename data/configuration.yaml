@@ -28,4 +28,4 @@ devices:
     temperature_precision: 1
     humidity_precision: 0
 advanced:
-  log_level: debug
+  log_level: info
