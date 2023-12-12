@@ -14,7 +14,7 @@ frontend:
   url: http://192.168.1.106:8080
 devices:
   '0x5c0272fffebbe6d8':
-    friendly_name: Toilette Tuya Sensor
+    friendly_name: Hall Tuya Sensor
   '0x5c0272fffecbe95a':
     friendly_name: Attic Bathroom Tuya Sensor
   '0x5c0272fffec3d80e':
