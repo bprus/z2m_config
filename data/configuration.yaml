@@ -29,5 +29,9 @@ devices:
     friendly_name: Kitchen Sonoff Sensor
     temperature_precision: 1
     humidity_precision: 0
+  '0x00124b0026b83ba2':
+    friendly_name: Zigbee Router
+  '0x00124b0026b83c2c':
+    friendly_name: Christmas Tree
 advanced:
   log_level: info
