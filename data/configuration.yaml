@@ -22,7 +22,7 @@ devices:
   '0x5c0272fffecf6026':
     friendly_name: Attic Tuya Sensor
   '0x00124b0026b83ba2':
-    friendly_name: Zigbee Router
+    friendly_name: Zigbee Socket
   '0x00124b0026b83c2c':
     friendly_name: Christmas Tree
   '0x00124b0029193cf2':
@@ -33,5 +33,7 @@ devices:
     friendly_name: Study Sonoff Sensor
     temperature_precision: 1
     humidity_precision: 0
+  '0x00124b002538f44c':
+    friendly_name: Zigbee Router
 advanced:
   log_level: debug
