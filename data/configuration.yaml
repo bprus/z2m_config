@@ -14,26 +14,58 @@ frontend:
   url: http://192.168.1.106:8080
 devices:
   '0x5c0272fffebbe6d8':
-    friendly_name: Hall Tuya Sensor
+    friendly_name: Basement Hall Tuya Sensor
+    temperature_precision: 1
+    humidity_precision: 0
   '0x5c0272fffecbe95a':
-    friendly_name: Attic Bathroom Tuya Sensor
+    friendly_name: Basement Bathroom Tuya Sensor
+    temperature_precision: 1
+    humidity_precision: 0
   '0x5c0272fffec3d80e':
-    friendly_name: Wardrobe Tuya Sensor
+    friendly_name: Server Room Tuya Sensor
+    temperature_precision: 1
+    humidity_precision: 0
   '0x5c0272fffecf6026':
-    friendly_name: Attic Tuya Sensor
+    friendly_name: Boiler Room Tuya Sensor
+    temperature_precision: 1
+    humidity_precision: 0
   '0x00124b0026b83ba2':
     friendly_name: Zigbee Socket
   '0x00124b0026b83c2c':
     friendly_name: Christmas Tree
   '0x00124b0029193cf2':
-    friendly_name: Kitchen Sonoff Sensor
+    friendly_name: Kennel Sonoff Sensor
     temperature_precision: 1
     humidity_precision: 0
   '0x00124b0029195ed1':
-    friendly_name: Study Sonoff Sensor
+    friendly_name: Garage Sonoff Sensor
     temperature_precision: 1
     humidity_precision: 0
   '0x00124b002538f44c':
     friendly_name: Zigbee Router
+  '0x142d41fffe36eeec':
+    friendly_name: Attic Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x0ceff6fffedbd757':
+    friendly_name: Attic Bathroom Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x0ceff6fffedc104c':
+    friendly_name: Corridor Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x142d41fffe2ecab6':
+    friendly_name: Hall Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x3410f4fffe03089f':
+    friendly_name: Study Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
+  '0x3410f4fffe09fda8':
+    friendly_name: Kitchen Sonoff Sensor
+    temperature_precision: 1
+    humidity_precision: 0
 advanced:
   log_level: debug
