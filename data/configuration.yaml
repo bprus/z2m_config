@@ -45,27 +45,15 @@ devices:
     friendly_name: Zigbee Router
   '0x142d41fffe36eeec':
     friendly_name: Attic Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
   '0x0ceff6fffedbd757':
     friendly_name: Attic Bathroom Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
-  '0x0ceff6fffedc104c':
-    friendly_name: Corridor Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
-  '0x142d41fffe2ecab6':
-    friendly_name: Hall Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
   '0x3410f4fffe03089f':
     friendly_name: Study Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
+  '0x0ceff6fffedc104c':
+    friendly_name: Corridor Sonoff Sensor
   '0x3410f4fffe09fda8':
     friendly_name: Kitchen Sonoff Sensor
-    temperature_precision: 1
-    humidity_precision: 0
+  '0x142d41fffe2ecab6':
+    friendly_name: Hall Sonoff Sensor
 advanced:
   log_level: debug
